@@ -450,7 +450,7 @@
 
 해가 한 번 더 기운다. 이탈리아 반도의 남쪽 어느 마을. 빨간 셔츠 입은 남자가 말을 탄 채 광장을 지나간다. 사람들이 그를 둘러싸고 손을 흔든다.
 
-이탈리아는 원래 여러 개의 작은 나라로 갈라져 있었다. 2월 혁명의 영향으로 통일 운동이 본격화된다. 북쪽의 <span style="color:#1e6fd9;font-weight:bold">사르데냐 왕국</span>을 중심으로 통일을 추진하는데, 그 중심에 <span style="color:#1e6fd9;font-weight:bold">카보우르</span>라는 외교관이 있다. 프랑스와 손잡고 오스트리아를 몰아내고 북부와 중부를 병합한다.
+이탈리아는 원래 여러 개의 작은 나라로 갈라져 있었다. 2월 혁명의 영향으로 통일 운동이 본격화된다. 북쪽의 <span style="color:#1e6fd9;font-weight:bold">사르데냐 왕국</span>을 중심으로 통일을 추진하는데, 그 중심에 사르데냐의 재상 <span style="color:#1e6fd9;font-weight:bold">카부르</span>가 있다. 프랑스와 손잡고 오스트리아를 몰아내고 북부와 중부를 병합한다.
 
 남쪽엔 빨간 셔츠다. <span style="color:#1e6fd9;font-weight:bold">가리발디</span>. <span style="color:#1e6fd9;font-weight:bold">붉은 셔츠단</span>이라는 의용병을 이끌고 남부 왕국을 정복한다. 그리고 그 땅을 사르데냐 왕한테 바친다.
 

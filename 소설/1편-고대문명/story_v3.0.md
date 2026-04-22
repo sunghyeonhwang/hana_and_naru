@@ -644,7 +644,7 @@
 
 "한 무제는 나라 재정도 손봤어." 나루가 말한다. "<span style="color:#1e6fd9;font-weight:bold">소금과 철의 전매</span>. 소금하고 철은 국가가 독점하는 거야."
 
-나라는 커지고 밥은 많아졌지만, 후대에 문제가 쌓인다. 황제가 약해지고 환관이 정치를 쥐락펴락하면서, 결국 농민들이 들고일어난다. <span style="color:#1e6fd9;font-weight:bold">황건적의 난</span>. 한나라는 한 번 멸망했다가, <span style="color:#1e6fd9;font-weight:bold">후한</span>이라는 이름으로 다시 선다.
+나라는 커지고 밥은 많아졌지만, 한 무제 뒤로는 왕조가 흔들린다. 외척 왕망이 한을 무너뜨리고 <span style="color:#1e6fd9;font-weight:bold">신</span>을 세워. 오래 못 가. 곧 광무제가 다시 한을 일으켜 세우는데, 그걸 <span style="color:#1e6fd9;font-weight:bold">후한</span>이라고 불러. 그런데 후한도 말에 가면 어린 황제들이 줄줄이 오르고 환관과 외척이 정치를 쥐락펴락해. 결국 농민들이 들고일어난다. <span style="color:#1e6fd9;font-weight:bold">황건적의 난</span>. 그렇게 한나라는 완전히 끝난다.
 
 "망했다가 다시 서고, 다시 서도 또 무너져. 이 리듬이 중국 역사 계속이야." 나루가 말한다.
 
@@ -766,7 +766,7 @@
 
 나는 '기록으로서의 역사'라는 단어를 내 머리 안 어디에 놓아 둔다. 헤로도토스라는 사람의 어깨 옆에.
 
-"이 사람들 이야기도 엄청 잘 만들거든." 나루가 덧붙인다. "<span style="color:#1e6fd9;font-weight:bold">호메로스</span>라는 시인이 두 편의 긴 이야기를 썼어. 『<span style="color:#1e6fd9;font-weight:bold">일리아드</span>』랑 『<span style="color:#1e6fd9;font-weight:bold">오디세이아</span>』."
+"이 사람들 이야기도 엄청 잘 만들거든." 나루가 덧붙인다. "<span style="color:#1e6fd9;font-weight:bold">호메로스</span>라는 시인이 두 편의 긴 이야기를 썼어. 『<span style="color:#1e6fd9;font-weight:bold">일리아스</span>』랑 『<span style="color:#1e6fd9;font-weight:bold">오디세이</span>』."
 
 "시인 한 명이 나라 교과서를 썼다고?"
 
@@ -898,7 +898,7 @@
 
 300년 동안 숨어 있던 사람들이 처음으로 햇빛 아래 교회를 짓는다.
 
-"이 사람은 수도를 동쪽으로 옮겨." 나루가 말한다. "<span style="color:#1e6fd9;font-weight:bold">콘스탄티노플</span>이라고 불러."
+"이 사람은 수도를 동쪽으로 옮겨." 나루가 말한다. "<span style="color:#1e6fd9;font-weight:bold">콘스탄티노폴리스</span>라고 불러."
 
 "그 다음엔 <span style="color:#1e6fd9;font-weight:bold">테오도시우스</span> 황제가 크리스트교를 <span style="color:#1e6fd9;font-weight:bold">국교</span>로 삼아." 나루가 말한다. "이후 교회는 <span style="color:#1e6fd9;font-weight:bold">교황</span>을 중심으로 오래 살아남아."
 

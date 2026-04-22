@@ -152,7 +152,7 @@
 
 아프리카의 변화. 나루는 이 정류장에선 말이 짧다.
 
-이집트는 결국 영국에 의해 점령된다. <span style="color:#1e6fd9;font-weight:bold">에티오피아</span>는 <span style="color:#1e6fd9;font-weight:bold">메넬리크 2세</span>가 근대 개혁에 성공해서 이탈리아의 침략을 막아 낸다. 아프리카에서 거의 유일하게 독립을 지킨 나라다.
+이집트는 결국 영국에 의해 점령된다. <span style="color:#1e6fd9;font-weight:bold">에티오피아</span>는 <span style="color:#1e6fd9;font-weight:bold">메넬리크 2세</span>가 근대 개혁에 성공해서 이탈리아의 침략을 막아 낸다. <span style="color:#1e6fd9;font-weight:bold">라이베리아와 에티오피아</span>를 제외한 아프리카의 대부분이 서양 열강의 식민지가 된 거다.
 
 "한 곳은 있구나." 나는 말한다.
 
@@ -210,7 +210,7 @@
 
 [이미지 필요: 판보이 쩌우]
 
-<span style="color:#1e6fd9;font-weight:bold">베트남 유신회</span>를 조직하고, <span style="color:#1e6fd9;font-weight:bold">월남 망국사</span>라는 책으로 나라 잃은 설움을 알린 사람이다. <span style="color:#1e6fd9;font-weight:bold">동유 운동</span>이라고 해서 베트남 청년들을 일본에 유학 보내 근대 기술을 배우게 한다. <span style="color:#1e6fd9;font-weight:bold">캄푸옹 운동</span> 같은 초기 저항은 실패했지만, 새로운 세대가 등장하는 것이다.
+<span style="color:#1e6fd9;font-weight:bold">베트남 유신회</span>를 조직하고, <span style="color:#1e6fd9;font-weight:bold">월남 망국사</span>라는 책으로 나라 잃은 설움을 알린 사람이다. <span style="color:#1e6fd9;font-weight:bold">동유 운동</span>이라고 해서 베트남 청년들을 일본에 유학 보내 근대 기술을 배우게 한다. <span style="color:#1e6fd9;font-weight:bold">껀브엉(근왕) 운동</span> 같은 초기 저항은 실패했지만, 새로운 세대가 등장하는 것이다.
 
 *
 
@@ -274,15 +274,15 @@
 
 "그건 1차 때잖아." 내가 말한다. "아까 네가 말한 거 기억해. 난징 조약은 1차 아편 전쟁 때. 이번은 다른 조약이지?"
 
-나루가 한 박자 멈춘다. "……맞다. 이번은 <span style="color:#dc2626;font-weight:bold">★베이징 조약</span>이야." 나루가 살짝 고개를 기울인다. "너 진짜 듣고 있었구나."
+나루가 한 박자 멈춘다. "……맞다. 이번은 조약이 두 개야. 먼저 <span style="color:#dc2626;font-weight:bold">★톈진 조약</span>, 그리고 이어서 <span style="color:#dc2626;font-weight:bold">★베이징 조약</span>." 나루가 살짝 고개를 기울인다. "너 진짜 듣고 있었구나."
 
 "당연히 듣고 있었지."
 
-<span style="color:#dc2626;font-weight:bold">★베이징 조약</span>이 맺어진다. <span style="color:#1e6fd9;font-weight:bold">톈진 10개 항구</span>가 추가로 개항되고, <span style="color:#1e6fd9;font-weight:bold">외국 공사 베이징 주둔</span>, <span style="color:#1e6fd9;font-weight:bold">크리스트교 포교</span>가 허용된다. 청은 실질적으로 반식민지가 된다.
+<span style="color:#dc2626;font-weight:bold">★톈진 조약</span>과 <span style="color:#dc2626;font-weight:bold">★베이징 조약</span>이 잇달아 맺어진다. <span style="color:#1e6fd9;font-weight:bold">항구가 추가로 개항</span>되고, <span style="color:#1e6fd9;font-weight:bold">외국 공사 베이징 주둔</span>, <span style="color:#1e6fd9;font-weight:bold">크리스트교 포교</span>가 허용된다. 청은 실질적으로 반식민지가 된다.
 
 [이미지 필요: 2차 아편 전쟁]
 
-[이미지 필요: 베이징 조약]
+[이미지 필요: 톈진 조약·베이징 조약]
 
 "잊혀선 안 되는 일이네." 나는 말한다.
 
