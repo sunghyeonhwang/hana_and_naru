@@ -7,6 +7,12 @@ ya-novelist-workspace/
 # 예제 폴더
 예제/
 
+# 저작권 있는 교과서 원본 (푸시 제외)
+중학교_역사*_교과서_*.pdf
+
+# 내부 시험 자료
+시험/
+
 # OS/편집기 아티팩트
 .DS_Store
 __pycache__/
